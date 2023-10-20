@@ -43,6 +43,7 @@ Siguiendo la misma metodología aplicada en 'Beer Station', con 7 gráficas en T
 6. Puntuación desglosada por tipo de público: interpretación artística, puesta en escena y puntuación general (sobre 10) del local seleccionado.
 7. Gráfico principal de eje doble: línea que muestra la evolución de la nota a lo largo del tiempo y barras que muestran el número de comentarios recibidos por mes.
 
+https://public.tableau.com/app/profile/estefania.castillo3331/viz/ComedyClubscuentaslocales/Dashboard1?publish=yes
 ![dashboard](03_imagenes/dashboard.JPG)
 
 ## Objetivo del Proyecto
