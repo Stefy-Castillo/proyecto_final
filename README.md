@@ -1,6 +1,6 @@
 ![encabezado](03_imagenes/encabezado.JPG)
 
-# Proyecto Final: Análisis de Espectáculos de Monólogos en Madrid
+# Proyecto Final: Análisis de Comedy Clubs en Madrid
 
 Este proyecto es la culminación de un bootcamp de 6 meses en Data Analytics y constituye la continuación de nuestro anterior proyecto "Dashboard_project: Análisis de Monólogos en Madrid", donde se llevó a cabo el scraping y visualización de datos de espectáculos de monólogos en Madrid desde el sitio web de Atrápalo.
 
@@ -20,7 +20,7 @@ En Madrid, los espectáculos de monólogos se presentan en diversos tipos de loc
 
 ## Descripción del Proyecto Actual
 
-En este proyecto, se extrajeron comentarios de las cuentas de los clubs de comedia y de los shows realizados en esos locales. Sin embargo, el análisis se enfocó únicamente en las cuentas de los locales debido a restricciones de tiempo y problemas en el scraping. Se utilizó Tableau para el análisis.
+En este proyecto, se extrajeron comentarios de las cuentas de los clubs de comedia y de los shows realizados en esos locales. Sin embargo, el análisis se enfocó únicamente en las cuentas de los locales.
 
 Se analizaron 8 clubs de comedia:
 
